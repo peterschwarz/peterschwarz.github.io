@@ -81,6 +81,15 @@ ul.posts span {
   color: #000;
 }
 
+.home_link, .home_link:visited {
+  color: #a00;
+  text-decoration: none;  
+}
+
+.home_link:hover {
+  color: #000;
+}
+
 .site .header a.extra {
   color: #aaa;
   margin-left: 1em;
