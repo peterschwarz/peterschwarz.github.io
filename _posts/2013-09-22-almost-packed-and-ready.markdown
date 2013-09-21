@@ -21,7 +21,7 @@ The packing list features
 
 * A first-aid kit (large, since I'm bringing it for the whole group)
 * 1 pair of convertible pants
-* 1 Button down shirt (black
+* 1 Button down shirt (black)
 * 3 T-shirts (mostly grey and black - I realize these don't show up well)
 * Biking shorts and shirt (boy, there's a lot of black here)
 * 5 pairs socks and shorts in a compression bag
