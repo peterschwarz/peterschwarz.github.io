@@ -5,7 +5,7 @@ date:   2013-09-21 08:22:00
 categories: travel 
 ---
 
-I'm headed off to Morocco, via Spain, tomorrow night. There will be the usual site-seeing and picture-snapping at first, maybe a soccer match if we can swing it.  The whole trip will be capped by a bicycle ride [Ouarzazate to Merzouga](https://www.google.com/maps/ms?msa=0&msid=214847992487362558866.0004e6e4d82372a193b57) - 200-plus miles, over 4 days.  
+I'm headed off to Morocco, via Spain, tomorrow night. There will be the usual site-seeing and picture-snapping at first, maybe a soccer match if we can swing it.  The whole trip will be capped with a bicycle ride [Ouarzazate to Merzouga](https://www.google.com/maps/ms?msa=0&msid=214847992487362558866.0004e6e4d82372a193b57) - 200-plus miles, over 4 days.  
 
 Being in shape not with standing, I need to pack light.
 
