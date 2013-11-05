@@ -18,12 +18,12 @@ of water with it barely wetting my tongue. All this after just 39km - our short 
 
 Needless to say, I was pretty ready to give up that night.  
 
-We did spend the night at a pretty nice (though isolated) [kasbah][1] in Skoura.
+We did spend the night at a pretty nice (though isolated) [kasbah](https://en.wikipedia.org/wiki/Kasbah) in Skoura.
 Dinner was included, the beds were reasonably comfortable, and the shower was somewhat hot.  I slept like 
 a rock and felt very refreshed in the morning.  I still felt like we wouldn't make it, but it seemed like we
 could still give it a go. 
 
-Armed with three liters each this time, plus some [hydration tablets][2] (granted we used one late the 
+Armed with three liters each this time, plus some [hydration tablets](http://www.rei.com/product/791943/nuun-active-hydration-tablets-4-flavor-variety-box) (granted we used one late the 
 first day, but this time we would use them from the start), we set out for a 50 km -minimum day. 
 
 With the better water supply and an early start, as well as more regimented stops for drinking said water and
@@ -33,8 +33,8 @@ grazed upon by the occasionial sheep herd, was all we saw for kilometers.
 
 Still, it wasn't an uneventful day.  One of our party had a flat just around noon.  We happened to find a 
 shelter (a taxi shelter, perhaps) to provide a little shade in order to fix it.  Our pump line for the 
-[Presta valve][4] leaked like crazy, so we decide to pull of the tire and replace with one of the spares.  
-Turns out, all the spares were [Shrader valve][3] tires - a bit of a mismatch for the rim.  
+[Presta valve](https://en.wikipedia.org/wiki/Presta_valve) leaked like crazy, so we decide to pull of the tire and replace with one of the spares.  
+Turns out, all the spares were [Shrader valve](https://en.wikipedia.org/wiki/Schrader_valve) tires - a bit of a mismatch for the rim.  
 
 Given that we were out in the middle of the desert, with miles to go, a bit of jury-rigging was in order.  
 A multi-tool pliers and file made quick work of the rim, and the wheel was converted from Presta to Shrader 
@@ -67,12 +67,6 @@ to be a great idea, given that the road turned to rock (not gravel, loose rock).
 miserable, headwind-filled, blowing-sand ride, with no stopping points, no shade, and no water (and no real 
 road markings to boot). 
 
-At least we made it to our planned end point: a grand Kasbah on the edge of the [Erg Chebbi][5] dunes, 
+At least we made it to our planned end point: a grand Kasbah on the edge of the [Erg Chebbi](https://en.wikipedia.org/wiki/Erg_Chebbi) dunes, 
 including an infinity pool with brilliant views.  An excellent spot for recovery and refreshment. 
 
-
-[1] https://en.wikipedia.org/wiki/Kasbah
-[2] http://www.rei.com/product/791943/nuun-active-hydration-tablets-4-flavor-variety-box
-[3] https://en.wikipedia.org/wiki/Schrader_valve
-[4] https://en.wikipedia.org/wiki/Presta_valve
-[5] https://en.wikipedia.org/wiki/Erg_Chebbi
