@@ -3,6 +3,7 @@ layout: post
 title:  "The Summary - Riding"
 date:   2013-11-05 11:22:00
 categories: travel 
+comments: true
 ---
 
 The long overdue summary of how things went with cycling across the Moroccan desert: it was hot and 
