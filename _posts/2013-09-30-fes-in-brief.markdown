@@ -1,8 +1,9 @@
 ---
 title: "Fes, in (very) Brief"
 layout: post
-categories: travel
+tags: travel Morocco
 date: 2013-09-30 9:39
+permalink: /travel/2013/09/30/fes-in-brief.html
 ---
 
 Still not sure what to say about Fès.  It's a fascinating, mysterious, infuriating and beautiful city.  I have to let it sink in a bit before I can say more.  

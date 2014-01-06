@@ -2,7 +2,8 @@
 layout: post
 title:  "MSP Made a few Changes"
 date:   2013-09-22 20:34
-categories: travel
+tags: travel
+permalink: /travel/2013/09/22/msp-changes.html
 ---
 
 The international departures gates have seen a few changes at the Minneapolis-St. Paul airport.  Since I've last passed through a year ago, they have installed a wide array of small booths, each with their own WI-FI-enabled iPad. I can check my email, browse the web, even update my blog via Github.  

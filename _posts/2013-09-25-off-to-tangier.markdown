@@ -2,7 +2,8 @@
 layout: post
 title: "Off to Tangier"
 date: 2013-09-25 09:12
-categories: travel
+categories: travel Spain
+permalink: /travel/2013/09/25/off-to-tangier.html
 ---
 
 Today we head off to Tangier, with little more than the bus and ferry schedule.  

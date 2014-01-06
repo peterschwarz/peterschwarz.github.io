@@ -2,7 +2,8 @@
 title: "A New Travel Experience..."
 layout: post
 date: 2013-09-27 23:28
-categories: travel
+tags: travel Morocco
+permalink: /travel/2013/09/27/new-travel-experience.html
 ---
 
 ...blackout!

@@ -2,7 +2,8 @@
 layout: post
 title:  "A lightweight Tech Stack"
 date:   2013-09-21 14:42:00
-categories: software technology 
+tags: software technology 
+permalink: /software/technology/2013/09/21/tech-stack.html
 ---
 
 A bit about the tech stack:  I'm currently using [Jekyll](http://jekyllrb.com/) and [Github Pages](http://pages.github.com/).  The combination of the two let me spin up a new, reasonably clutter-free blog in very little time.  In fact, I spent more time writing that first post, rather than fiddling with a framework[1](#foot_1).

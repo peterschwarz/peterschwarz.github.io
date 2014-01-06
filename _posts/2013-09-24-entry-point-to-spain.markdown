@@ -2,7 +2,8 @@
 layout: post
 title:  "Classic Entry to Spain"
 date:   2013-09-24 12:50
-categories: travel
+tags: travel Spain
+permalink: travel/2013/09/24/entry-point-to-spain.html
 ---
 
 Sevilla: a classic entry point to Spain.  Arriving in the early evening, too early for dinner and much too late 

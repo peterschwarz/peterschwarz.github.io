@@ -2,8 +2,9 @@
 layout: post
 title:  "Arduino via Node.js"
 date:   2014-01-02 12:00:00
-categories: software node arduino
+tags: software node arduino
 comments: true
+permalink: /software/node/arduino/2014/01/02/arduino_node_js.html
 ---
 
 Get an [Arduino](http://arduino.cc) and a little self-imposed time on the bench, and you too can play around with blinking lights and reading sensors. I picked up the [SparkFun Inventor's Kit](https://www.sparkfun.com/products/11576) to try my hand with with a wide variety of electronic parts.  It includes a great little book diagramming the example circuits and code samples for each. 
