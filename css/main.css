@@ -17,7 +17,7 @@
   font-weight: bold;
 }
 
-.highlight {
+.highlight pre {
   border: 1px #DDDDDD solid;
   border-radius: 2px;
   -webkit-border-radius: 2px;
@@ -25,6 +25,15 @@
   padding: 1em;
   background-color: #F8F8F8;
   margin-bottom: 1em;
+}
+
+p code {
+  border: 1px #DDDDDD solid;
+  border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  background-color: #F8F8F8;
+  padding:0 .2em 0 .2em;
 }
 
 .footer {
