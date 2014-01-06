@@ -5,6 +5,11 @@
   -webkit-border-radius: 40px;
   -moz-border-radius: 40px;
   background: url(http://www.gravatar.com/avatar/8c4d81460a7e3bc29ddf72b313f06884.png) no-repeat;
+  margin: 0 auto;
+}
+
+.title {
+  text-align: center;
 }
 
 .title a {
@@ -18,3 +23,9 @@
   background-color: #EFEFEF;
   margin-bottom: 1em;
 }
+
+.footer {
+  text-align: center;
+}
+
+.add-top { margin-top: 1em !important; }
