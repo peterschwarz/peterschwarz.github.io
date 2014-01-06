@@ -1,8 +1,9 @@
 ---
 title: "Meknes: Hot, Dry, and Pleasant"
 layout: post
-categories: travel
+tags: travel
 date: 2013-10-02 17:02
+permalink: /travel/2013/10/02/meknes.html
 ---
 
 Meknes, now: smaller than Fes and more laid back.  Not as much in the way of touts or hustlers, it has been quite pleasant for a couple of nights.

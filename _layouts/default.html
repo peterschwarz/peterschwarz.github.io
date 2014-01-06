@@ -6,7 +6,9 @@
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
-        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/2.1.3/normalize.min.css"></link>
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/skeleton/1.2/stylesheets/base.css"></link>
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/skeleton/1.2/stylesheets/layout.css"></link>
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/skeleton/1.2/stylesheets/skeleton.css"></link>
 
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
@@ -18,50 +20,33 @@
         <!-- Font Awesome -->
         <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
-        <style>
-        .avatar {
-          width: 80px;
-          height: 80px;
-          border-radius: 40px;
-          -webkit-border-radius: 40px;
-          -moz-border-radius: 40px;
-          background: url(http://www.gravatar.com/avatar/8c4d81460a7e3bc29ddf72b313f06884.png) no-repeat;
-        }
-        </style>
-
     </head>
     <body>
 
-        <div class="site">
-          <div class="header">
+        <div class="container">
+          <div class="sixteen columns">
             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+            <hr />
           </div>
 
+          <div class="sixteen columns">
           {{ content }}
+          </div>
 
           <div class="footer">
-            <div class="contact">
-              <p><div class="avatar"></div></p>
+            <hr />
+            <div class="one-third column">
+              <div class="avatar"></div>
             </div>
-            <div class="contact">
+            <div class="one-third column">
               <p>
                 <span>Peter Schwarz</span>
               </p>
             </div>
-            <div class="contact">
-              <p>
+            <div class="one-third column">
                 <a href="https://github.com/peterschwarz"><i class="fa fa-github-square fa-2x"></i></a>
-              </p>
-            </div>
-            <div class="contact">
-              <p>
                 <a href="https://twitter.com/peterjschwarz"><i class="fa fa-twitter-square fa-2x"></i></a>
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="/feed.xml"><i class="fa fa-rss-square fa-2x"></i></i></a>
-              </p>
+                <a href="/feed.xml"><i class="fa fa-rss-square fa-2x"></i></a>
             </div>
            </div>
         </div>
