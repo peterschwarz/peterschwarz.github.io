@@ -6,12 +6,28 @@
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/2.1.3/normalize.min.css"></link>
+
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
 
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
         <link rel="shortcut icon" href="/favicon.ico" />
+
+        <!-- Font Awesome -->
+        <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+        <style>
+        .avatar {
+          width: 80px;
+          height: 80px;
+          border-radius: 40px;
+          -webkit-border-radius: 40px;
+          -moz-border-radius: 40px;
+          background: url(http://www.gravatar.com/avatar/8c4d81460a7e3bc29ddf72b313f06884.png) no-repeat;
+        }
+        </style>
 
     </head>
     <body>
@@ -25,24 +41,29 @@
 
           <div class="footer">
             <div class="contact">
-              <img src="http://www.gravatar.com/avatar/8c4d81460a7e3bc29ddf72b313f06884.png" />
+              <p><div class="avatar"></div></p>
             </div>
             <div class="contact">
               <p>
-                Peter Schwarz<br />
-                Twitter<br />
+                <span>Peter Schwarz</span>
               </p>
             </div>
             <div class="contact">
               <p>
-                <a href="https://github.com/peterschwarz">github.com/peterschwarz</a><br />
-                <a href="https://twitter.com/peterjschwarz">twitter.com/peterjschwarz</a><br />
+                <a href="https://github.com/peterschwarz"><i class="fa fa-github-square fa-2x"></i></a>
               </p>
             </div>
             <div class="contact">
-              <p><a href="/feed.xml"><img src="/images/rss_logo.png"></a></p>
+              <p>
+                <a href="https://twitter.com/peterjschwarz"><i class="fa fa-twitter-square fa-2x"></i></a>
+              </p>
             </div>
-          </div>
+            <div class="contact">
+              <p>
+                <a href="/feed.xml"><i class="fa fa-rss-square fa-2x"></i></i></a>
+              </p>
+            </div>
+           </div>
         </div>
 
     </body>
