@@ -45,6 +45,14 @@ p code {
   padding:0 .2em 0 .2em;
 }
 
+
+li:before {    
+  font-family: 'FontAwesome';
+  content: '\f101';
+  padding-left: .5em;
+  margin-right:  0.5em;
+}
+
 .footer {
   text-align: center;
 }
