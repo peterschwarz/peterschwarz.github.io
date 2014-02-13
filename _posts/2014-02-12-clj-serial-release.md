@@ -14,7 +14,9 @@ Announcing the 1.0.0 release of [clj-serial](https://github.com/peterschwarz/clj
 * Backed by [PureJavaComm](https://github.com/nyholku/purejavacomm)
 * removed the various `write-` functions in favor of one that takes arbitrary values of number, byte arrays or sequences of numbers 
 
-Possible future changes, just to remove some extra stuff:
+Possible future changes:
 
 * Remove the index-based port selection - bit odd, and really only works well in a REPL
 * Consolidate and simplify the various `listen`-related functions 
+
+Deploying to clojars and promoting the jar was remarkable easy, thanks to a post by [Michael Peterson](http://thornydev.blogspot.com/2013/03/signing-and-promoting-your-clojure.html)
