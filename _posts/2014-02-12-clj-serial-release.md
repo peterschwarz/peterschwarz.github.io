@@ -6,8 +6,6 @@ tags: software clojure arduino
 comments: true
 ---
 
-# clj-serial 1.0.0
-
 Announcing the 1.0.0 release of [clj-serial](https://github.com/peterschwarz/clj-serial).  As mentioned, it's forked from [serial-port](https://github.com/samaaron/serial-port) with the following changes:
 
 * Updated to Clojure 1.5.1
