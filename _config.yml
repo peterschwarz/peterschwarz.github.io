@@ -1,5 +1,5 @@
 name: Bits Abound
 description: Traveling about in the digital and real worlds.
 markdown: redcarpet
-pygments: true
+highlights: true
 permalink: /blog/:year/:month/:day/:title.html
